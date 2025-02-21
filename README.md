@@ -4,8 +4,8 @@
 | Name              | Email             | GitHub Username        |
 |------------------|-----------------|-----------------------|
 | Andy Nguyen      | anhnguye@usc.edu | herald-of-spring      |
-| Bhagyashree Patil | bhagyash@usc.edu | Bhagyashreep          |
-| Hitanshu Parekh  | student3@usc.edu | Student3              |
+| Bhagyashree Patil | bhagyash@usc.edu | Bhagyashreepp          |
+| Hitanshu Parekh  | hhparekh@usc.edu | hparekh72              |
 
 ---
 
