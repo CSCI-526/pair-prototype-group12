@@ -17,12 +17,12 @@ public class ActionQueue : ScriptableObject
     public GameObject resolve() {
         GameObject result = null;
         int largestPriority = -1;
-        for (int i=0; i<actionStack.Length; i++) {
-            if (actionStack[i].card.priority >= largestPriority) {
-                largestPriority = actionStack[i].card.priority;
-                result = actionStack[i];
-            }
-        }
+        // for (int i=0; i<actionStack.Length; i++) {
+        //     if (actionStack[i].card.priority >= largestPriority) {
+        //         largestPriority = actionStack[i].card.priority;
+        //         result = actionStack[i];
+        //     }
+        // }
         return result;
     }
 }
