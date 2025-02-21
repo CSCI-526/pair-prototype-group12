@@ -5,7 +5,7 @@ public class DraggableCard : MonoBehaviour
     private bool isDragging = false;
     private bool isOverDropZone = false;
     private Transform dropZone;
-    private Vector3 originalPosition;
+    private Vector2 originalPosition;
 
     private void Start()
     {
@@ -16,8 +16,8 @@ public class DraggableCard : MonoBehaviour
     {
         if (isDragging)
         {
-            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            transform.position = new Vector3(mousePosition.x, mousePosition.y, 0);
+            Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            transform.position = new Vector2(mousePosition.x, mousePosition.y);
         }
     }
 
