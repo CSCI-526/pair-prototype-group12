@@ -67,8 +67,8 @@ Players place their selected cards into a shared action queue (e.g., size 3). Th
 | Name              | Contribution |
 |------------------|--------------------------------------|
 | Andy Nguyen      | Descriptive Document, Prototype Prefabs, Game Logic Scripts |
-| Bhagyashree Patil | Drag and drop mechanism, UI design updates, documentation |
-| Hitanshu Parekh | UI design, Discord Marketing |
+| Bhagyashree Patil | Interaction scripts, Prototype Prefabs, documentation |
+| Hitanshu Parekh | Instruction scripts, Prototype Prefabs, Discord Marketing |
 
 
 ---
