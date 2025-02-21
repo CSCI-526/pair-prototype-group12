@@ -46,7 +46,7 @@ Players place their selected cards into a shared action queue (e.g., size 3). Th
 
 ## Prototype Description
 **Game Name: Exodia**
-- Players aim to assemble Exodia, a set of **five unique pieces**, before their opponents.
+- Players aim to assemble Exodia, a set of ** unithreeque pieces**, before their opponents.
 - Strategic card placement in the action queue benefits the player and disrupts their opponent.
 
 ---
@@ -68,6 +68,8 @@ Players place their selected cards into a shared action queue (e.g., size 3). Th
 |------------------|--------------------------------------|
 | Andy Nguyen      | Descriptive Document, Prototype Prefabs, Game Logic Scripts |
 | Bhagyashree Patil | Drag and drop mechanism, UI design updates, documentation |
+| Hitanshu Parekh | UI design, Discord Marketing |
+
 
 ---
 
